@@ -2,4 +2,4 @@
 
 ## Bootstap ile linkedin sitesinin klonunu yaptım Ödev 3
 
-[Patike Profilim]{https://app.patika.dev/arfa}
+[https://app.patika.dev/arfa]{Patika Profilim}
